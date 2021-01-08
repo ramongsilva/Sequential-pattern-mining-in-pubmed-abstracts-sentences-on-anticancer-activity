@@ -6,9 +6,10 @@
   
 </ul>
 <h3>Patterns mined</h3>
-<p> Bellow, there are information about the files with the patterns mined:</p>
+<p> Bellow, there are information about the files with the patterns mined, used in creation of rules for information extraction about anticancer activity in pubmed abstracts:</p>
 <ul>
   <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-unique-trasaction.tsv'>Patterns-unique-trasaction.tsv</a>: list of patterns mined with a unique term.</li>
-  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-polifenol-cancer-associations.tsv'>Patterns-polifenol-cancer-associations.tsv</a>: list of patterns mined with polyphenol-gene entities associations.</li>
-  
+  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-polifenol-cancer-associations.tsv'>Patterns-polifenol-cancer-associations.tsv</a>: list of patterns mined with polyphenol-cancer entities associations.</li>
+ <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-polifenol-gene-associations.tsv'>Patterns-polifenol-gene-associations.tsv</a>: list of patterns mined with polyphenol-gene entities associations.</li>
+ <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-gene-cancer-associations.tsv'>Patterns-gene-cancer-associations.tsv</a>: list of patterns mined with gene-cancer entities associations.</li>  
 </ul>
