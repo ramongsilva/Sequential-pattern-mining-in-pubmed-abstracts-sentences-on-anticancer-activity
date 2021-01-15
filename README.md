@@ -1,8 +1,8 @@
-<h1> Sequential pattern mining in pubmed abstracts sentences</h1>
-<p>This repository contains all files used in the sequential pattern mining applied in sentences of pubmed abastracts about the anti-cancer activity of polyphenols. The patterns mined were used for find terms and keywords for creation of rules based in regular expressions,  for information extraction about anti-cancer activity of polyphenols.  Bellow, there are information about the files:</p>
+<h1> Sequential pattern mining in pubmed abstracts sentences on anticancer activity</h1>
+<p>  This repository contains all files used in the sequential pattern mining applied in sentences from pubmed abstracts classified as positive in <a href='https://github.com/ramongsilva/Text-classification-of-pubmed-abstracts-on-polyphenols-anticancer-activity'>Text Classification Step</a>. The patterns mined were used for find terms and keywords for creation of rules based in regular expressions, for <a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-on-polyphenols-anticancer-activity'>Information Extraction Step</a>.  Bellow, there are information about the files:</p>
 <ul>
-  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/sequential-pattern-mining-pubmed-abstract-sentences-gh.R'>sequential-pattern-mining-pubmed-abstract-sentences-gh.R</a>: R script for sequential patter mining in sentences about polyphenols anticancer activity.</li>
-  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/anotated_sentences.tsv'>anotated_sentences.tsv</a>: list of 72.019 sentences anotated with entities about polyphenols, cancers and genes, for sequential pattern mining.</li>
+  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/sequential-pattern-mining-pubmed-abstract-sentences-gh.R'>sequential-pattern-mining-pubmed-abstract-sentences-gh.R</a>: R script for sequential pattern mining in pubmed abstract sentences on polyphenols anticancer activity.</li>
+  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/anotated_sentences.tsv'>anotated_sentences.tsv</a>: tsv file with a list of 72.019 sentences anotated with entities about polyphenols, cancers and genes, for sequential pattern mining.</li>
   
 </ul>
 <h3>Patterns mined</h3>
