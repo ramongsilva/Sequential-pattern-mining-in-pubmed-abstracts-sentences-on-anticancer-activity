@@ -5,7 +5,7 @@
   <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/anotated_sentences.tsv'>anotated_sentences.tsv</a>: tsv file with a list of 72.019 sentences anotated with entities about polyphenols, cancers and genes, for sequential pattern mining.</li>
   
 </ul>
-<h3>Patterns mined</h3>
+<h2>Patterns mined</h2>
 <p> Bellow, there are information about the files with the patterns mined, used in creation of rules for information extraction about anticancer activity in pubmed abstracts:</p>
 <ul>
   <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-unique-trasaction.tsv'>Patterns-unique-trasaction.tsv</a>: list of patterns mined with a unique term.</li>
@@ -13,3 +13,6 @@
  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-polifenol-gene-associations.tsv'>Patterns-polifenol-gene-associations.tsv</a>: list of patterns mined with polyphenol-gene entities associations.</li>
  <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/Patterns-gene-cancer-associations.tsv'>Patterns-gene-cancer-associations.tsv</a>: list of patterns mined with gene-cancer entities associations.</li>  
 </ul>
+
+<h2>Rules Dictionary</h2>
+<p>The sequential pattern mining contributes for creation of a dictionary with 25 rules for <a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-on-polyphenols-anticancer-activity'>Information Extraction Step</a>. Click to see <a href='https://drive.google.com/file/d/1DotCACylU7GueHaPJkstwriWsJElFyI3/view' target='_blank'>more information about Rules Dictionary Implementation</a>.</p>
