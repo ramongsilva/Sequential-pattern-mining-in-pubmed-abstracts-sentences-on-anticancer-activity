@@ -29,7 +29,7 @@ require(tm)
 # Retrieving and pre-processing of the transformed sentences with associations of entities 
 stopwords_pubmed = c('a','about','all','almost','also','although','always','among','an','and','another','any','are','as','at','because','before','between','both','but','can','could','do','does','done','due','during','each','either','enough','especially','for','found','from','further','here','how','however','i','if','in','into','it','its','itself','just','kg','km','made','mainly','make','may','mg','might','ml','mm','most','mostly','must','nearly','neither','no','nor','obtained','often','our','overall','perhaps','pmid','quite','rather','really','regarding','several','should','show','showed','significantly','since','so','some','such','than','that','the','their','theirs','them','then','there','therefore','these','they','this','those','through','thus','to','upon','using','various','very','we','were','what','when','which','while','with','within','without','would')
 stopwords_obs = c('Method','Methods','Results','Conslusion','conclusions','Discussion')
-setwd("/sequence-pattern-mining/")
+setwd("folder-project/")
 df_sentences_anotated = read.table(file = 'anotated_sentences.tsv', sep = '\t')
 # Sample fo test
 df_sentences_anotated = df_sentences_anotated[c(1:10000),]
