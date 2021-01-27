@@ -5,6 +5,7 @@
   <li><a href='https://github.com/ramongsilva/sequential-pattern-mining-in-pubmed-abstracts-sentences/blob/main/anotated_sentences.tsv'>anotated_sentences.tsv</a>: tsv file with a list of 72.019 sentences annotated with entities about polyphenols, cancers and genes, for sequential pattern mining. Save this file in the same folder of sequential-pattern-mining-pubmed-abstract-sentences-gh.R script, because it is needed to execute the script.</li>
   
 </ul>
+    <p>For more information about this and other steps of the Kaphta Architecture, <strong>see sections of the Kaptha Web Tool available in <a href="https://portal.ifsuldeminas.edu.br/kaphtawebtool/" target="_blank">https://portal.ifsuldeminas.edu.br/kaphtawebtool/</a></strong>.</p>
 <h2>Patterns mined</h2>
 <p> Bellow, there is information about the files with the patterns mined, used in the creation of rules for information extraction about anticancer activity in PubMed abstracts:</p>
 <ul>
